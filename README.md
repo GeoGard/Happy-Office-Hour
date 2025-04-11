@@ -8,7 +8,7 @@ Follow these steps to get the game running on your machine:
 
 # 1️⃣ Clone the Repository
 Using Git:
-git clone https://github.com/GeoGard/Minesweeper.git
+git clone https://github.com/GeoGard/Happy-Office-Hour.git
 cd Minesweeper
 
 OR Download as ZIP
