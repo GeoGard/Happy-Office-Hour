@@ -71,7 +71,7 @@ class SudokuGUI:
 
         # Updated colors: first region is light blue, rest are soft pastels
         self.colors = [
-            "#b3e5fc", "#e6f7ff", "#fff0f5",
+            "#b3e5fd", "#e6f7ff", "#fff0f5",
             "#e6ffe6", "#ffffcc", "#f9e6ff",
             "#ffe6cc", "#ccffff", "#e6e6fa"
         ]
