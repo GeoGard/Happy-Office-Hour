@@ -1,29 +1,28 @@
 ---
 name: Bug Report
-about: Report a bug
+description: Report a bug
 title: "[BUG] "
-labels: bug
+labels: [bug]
+body:
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: "OS/Browser/Device details"
+      placeholder: "e.g., Windows 11, Chrome 120"
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: "Detailed steps to trigger the bug"
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected Behavior
+  - type: checkboxes
+    id: logs
+    attributes:
+      label: Include Logs?
+      options:
+        - label: "I included relevant logs/screenshots"
 ---
-
-**Describe the Bug**
-A clear and concise description of the issue.
-
-**Steps to Reproduce**
-1. Step 1
-2. Step 2
-3. Step 3
-
-**Expected vs. Actual Behavior**
-- Expected: ...
-- Actual: ...
-
-**Screenshots**
-(Optional)
-
-**Environment**
-- OS: [e.g., Windows 11]
-- Browser: [e.g., Chrome 120]
-- Version: [e.g., 1.0.0]
-
-**Additional Context**
-Add details here.
