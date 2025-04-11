@@ -14,8 +14,7 @@ Currently includes:
 
 ## 🔢 Sudoku
 
-Sharpen your logic skills with a clean and colorful Sudoku game.  
-Each 3x3 region is highlighted with its own background color to help you visually group cells.
+Sharpen your logic skills with a clean and colorful Sudoku game. 
 
 ---
 
